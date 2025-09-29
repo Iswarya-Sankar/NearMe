@@ -164,11 +164,12 @@ hotel.html
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (17).png>)
-![alt text](<Screenshot (18).png>)
-![alt text](<Screenshot (19).png>)
-![alt text](<Screenshot (20).png>)
-![alt text](<Screenshot (21).png>)
-![alt text](Screenshot(9).png)
+
+![alt text](<Screenshot (24).png>)
+![alt text](<Screenshot (25).png>)
+![alt text](<Screenshot (26).png>)
+![alt text](<Screenshot (27).png>)
+![alt text](<Screenshot (28).png>)
+![alt text](<Screenshot (29).png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
